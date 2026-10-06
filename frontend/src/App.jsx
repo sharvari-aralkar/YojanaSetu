@@ -3,7 +3,7 @@ import "./App.css";
 
 
 const API =
-  import.meta.env.VITE_API_URL || "http://127.0.0.1:5000";
+  import.meta.env.VITE_API_URL || "/api";
 
 const RECOMMEND_API_URL = `${API}/recommend`;
 const SCHEMES_API_URL = `${API}/schemes`;
