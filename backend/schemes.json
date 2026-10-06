@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "name": "Government of India Post-Matric Scholarship for SC Students",
+    "state": "Maharashtra",
+    "category": "education",
+    "description": "Post-matric financial assistance for eligible SC and Neo-Buddhist students studying in Maharashtra.",
+    "eligibility": {
+      "state": "Maharashtra",
+      "max_income": 250000,
+      "category": "sc",
+      "education_level": "post-secondary"
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "Domicile Certificate",
+      "Previous Year Marksheet",
+      "Bank Account Details"
+    ],
+    "official_url": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51ACE99921E698B1EE85995B38445F14746E1B0DD7E66FFF88B",
+    "is_demo": false,
+    "department": "Social Justice and Special Assistance Department",
+    "benefit": "Tuition fees, examination fees and maintenance assistance subject to scheme rules.",
+    "verification_status": "Verified from official MahaDBT source",
+    "source_name": "MahaDBT",
+    "additional_criteria": [
+      "Applicant must satisfy the applicable post-matric course conditions.",
+      "Detailed course and admission conditions must be checked on the official portal."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Post Matric Scholarship to OBC Students",
+    "state": "Maharashtra",
+    "category": "education",
+    "description": "Financial assistance for eligible OBC students pursuing approved post-matric education in Maharashtra.",
+    "eligibility": {
+      "state": "Maharashtra",
+      "max_income": 250000,
+      "category": "obc",
+      "education_level": "post-secondary"
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "Domicile Certificate",
+      "Previous Year Marksheet",
+      "Admission Documents",
+      "Bank Account Details"
+    ],
+    "official_url": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AB02E984835E89FEFDB316E301CE6A991F41C5D42B01A7D7E",
+    "is_demo": false,
+    "department": "VJNT, OBC and SBC Welfare Department",
+    "benefit": "Maintenance allowance and applicable tuition/examination fee support subject to course and institution rules.",
+    "verification_status": "Verified from official MahaDBT source",
+    "source_name": "MahaDBT",
+    "additional_criteria": [
+      "Applicant must belong to OBC category.",
+      "Applicant must pursue an approved post-matric course.",
+      "Course, admission and attendance conditions apply."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna",
+    "state": "Maharashtra",
+    "category": "education",
+    "description": "Financial assistance for eligible economically weaker students admitted to approved professional and technical courses through the applicable admission process.",
+    "eligibility": {
+      "state": "Maharashtra",
+      "max_income": 800000,
+      "category": "general",
+      "education_level": "post-secondary"
+    },
+    "documents": [
+      "SSC/HSC Marksheet",
+      "Domicile Certificate",
+      "Family Income Certificate",
+      "CAP Related Document",
+      "Attendance Certificate",
+      "Previous Year Marksheet"
+    ],
+    "official_url": "https://www.mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A7F4D327BDEB7125DE0BA4AE1C51180C272281017EBEF6F7C",
+    "is_demo": false,
+    "department": "Higher and Technical Education, Maharashtra",
+    "benefit": "Tuition fee and examination fee assistance according to applicable course, institution, income and applicant conditions.",
+    "verification_status": "Verified from official MahaDBT source",
+    "source_name": "MahaDBT",
+    "additional_criteria": [
+      "Applicant must satisfy Maharashtra domicile requirements.",
+      "Applicable professional or technical course conditions apply.",
+      "CAP/admission and attendance conditions may apply."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "State Government Open Merit Scholarship",
+    "state": "Maharashtra",
+    "category": "education",
+    "description": "Merit-based scholarship for eligible Maharashtra students in specified Arts, Commerce, Science and Law streams.",
+    "eligibility": {
+      "state": "Maharashtra",
+      "education_level": "post-secondary"
+    },
+    "documents": [
+      "Previous Year Marksheet",
+      "12th Standard Marksheet",
+      "Domicile/Residence Proof",
+      "Bank Account Details"
+    ],
+    "official_url": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AED33CA69606C0CC2EF25388FB8EC7046E5E9B1E993657CEB",
+    "is_demo": false,
+    "department": "Directorate of Higher Education",
+    "benefit": "Merit scholarship assistance according to the applicable scheme rules.",
+    "verification_status": "Verified from official MahaDBT source",
+    "source_name": "MahaDBT",
+    "additional_criteria": [
+      "Fresh applicants need the required qualifying marks.",
+      "Applicable Arts, Commerce, Science or Law stream conditions must be verified.",
+      "Selection is merit based."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sub-mission on Farm Mechanization",
+    "state": "Maharashtra",
+    "category": "agriculture",
+    "description": "Financial assistance to eligible farmers for procurement of agricultural machinery and implements.",
+    "eligibility": {
+      "state": "Maharashtra",
+      "occupation": "farmer"
+    },
+    "documents": [
+      "Aadhaar Card",
+      "7/12 Certificate",
+      "8-A Certificate",
+      "Equipment Quotation",
+      "Testing Certificate",
+      "Self Declaration",
+      "Pre-Sanction Letter"
+    ],
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/SchemeData/SchemeData?str=E9DDFA703C38E51A23C0254248DAFF28",
+    "is_demo": false,
+    "department": "Agriculture Department",
+    "benefit": "Financial assistance for eligible farm machinery and implements according to applicable subsidy rules.",
+    "verification_status": "Verified from official MahaDBT Farmer source",
+    "source_name": "MahaDBT Farmer Portal",
+    "additional_criteria": [
+      "Farmer should have Aadhaar.",
+      "7/12 and 8-A records are required.",
+      "Only applicable components can be selected according to scheme rules.",
+      "Previous benefit history can affect eligibility for the same component."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Babasaheb Ambedkar Krushi Swavalamban Yojana",
+    "state": "Maharashtra",
+    "category": "agriculture",
+    "description": "Agricultural support scheme for eligible SC farmers in Maharashtra.",
+    "eligibility": {
+      "state": "Maharashtra",
+      "occupation": "farmer",
+      "category": "sc"
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "7/12 Certificate",
+      "8-A Certificate",
+      "Bank Account Details",
+      "Required Agriculture Documents"
+    ],
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/SchemeData/SchemeData?str=E9DDFA703C38E51A986837A04E50D9EF",
+    "is_demo": false,
+    "department": "Agriculture Department",
+    "benefit": "Agricultural support for eligible SC farmers according to the scheme's applicable components and rules.",
+    "verification_status": "Verified from official MahaDBT Farmer source",
+    "source_name": "MahaDBT Farmer Portal",
+    "additional_criteria": [
+      "Applicant must satisfy the scheme's farmer and land-related conditions.",
+      "Detailed component-specific conditions must be verified on the official portal."
+    ]
+  }
+]
